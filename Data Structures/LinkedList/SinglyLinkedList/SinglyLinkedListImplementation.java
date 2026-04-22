@@ -119,7 +119,7 @@ public class SinglyLinkedListImplementation {
         list.display(head);
 
         list.deleteAtPosition(2, head);
-        list.display(head);
+        
 
         list.deleteAtEnd(head);
         list.display(head);
