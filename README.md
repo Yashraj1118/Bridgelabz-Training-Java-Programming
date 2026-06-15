@@ -1,115 +1,235 @@
+# 🚀 Java Core Programming Basics
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/Framework-Core%20Java-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IDE-IntelliJ%20IDEA-purple?style=for-the-badge&logo=intellijidea" />
+  <img src="https://img.shields.io/badge/Version%20Control-Git%20%26%20GitHub-black?style=for-the-badge&logo=github" />
+</p>
+
+---
+
+## 📖 About The Project
+
+This repository contains **basic to intermediate Java programming practice problems** organized branch-wise and level-wise for structured learning.
+
+The objective of this project is to strengthen:
+
+- ✅ Core Java Fundamentals
+- ✅ Problem Solving Skills
+- ✅ Logical Thinking
+- ✅ Programming Concepts
+- ✅ Clean Coding Practices
+
+through hands-on coding exercises and practical examples.
+
+---
+
+# 🛠 Tech Stack
+
+| Technology | Description |
+|------------|-------------|
+| ☕ Java | Core Programming Language |
+| 🧩 Core Java | Java Fundamentals |
+| 💻 IntelliJ IDEA / VS Code | Development Environment |
+| 🔄 Git & GitHub | Version Control |
+
+---
+
+# ✨ Features
+
+- 📚 Structured level-wise learning approach
+- 🌱 Beginner-friendly Java programs
+- 🧠 Focus on logic building
+- 🔀 Separate branches for different concepts
+- 📈 Progressive difficulty levels
+- 🎯 Hands-on practice problems
+
+---
+
+# 📂 Repository Structure
+
+```text
 java-core-programming-basics
-This repository contains basic to intermediate Java programming practice problems, organized branch-wise and level-wise for structured learning. The goal of this project is to strengthen core programming concepts in Java through hands-on problem solving.
+│
+├── Core Programming Basics
+│
+├── Control Flow
+│
+├── Arrays
+│
+├── Strings
+│
+└── Methods
+```
 
-🛠 Tech Stack
-Language: Java
-Framework: Core Java
-Tools: IntelliJ IDEA / VS Code
-Version Control: Git & GitHub
-✨ Features
-Structured level-wise learning approach
-Separate branches for different core concepts
-Beginner-friendly Java practice problems
-Focus on logic building and fundamentals
-📂 Branch Structure
-🔹 Core-programming branch
-Focuses on fundamental programming concepts in Java, covering basic operations, expressions, and logic building through hands-on practice problems.
+---
 
-📁 Core Programming Basics
-📘 Level 01 – Programming Basics (Java)
+# 🌿 Branch Structure
+
+## 🔹 Core Programming Branch
+
+Focuses on fundamental Java concepts including:
+
+- Variables
+- Data Types
+- Operators
+- Expressions
+- User Input
+- Mathematical Computations
+- Logic Building
+
+---
+
+# 📘 Level 01 – Programming Basics (Java)
+
 This level focuses on basic programming elements and arithmetic operations in Java.
-The programs help in understanding variables, data types, operators, expressions, and basic user input.
 
-📝 Practice Problems
+## 📝 Practice Problems
 
-Program to calculate the age of a person given the birth year (current year assumed).
-Program to calculate the average percentage marks of a student in PCM subjects.
-Program to calculate profit, loss, and profit percentage using cost price and selling price.
-Program to divide items equally among students and find the remaining items using division and modulus operators.
-Program to compute the volume of Earth in cubic kilometers and cubic miles.
-Program to convert distance from kilometers to miles using user input.
-Program to calculate discounted course fee by taking fee and discount percentage as user input.
-Program to convert height from centimeters into feet and inches.
-Program to build a basic calculator performing addition, subtraction, multiplication, and division on two numbers.
-Program to find the side length of a square given its perimeter.
-Program to convert distance from feet into yards and miles.
-Program to calculate total purchase price using unit price and quantity.
-Program to find the maximum number of handshakes among a given number of students.
-🎯 Learning Outcomes
+| No. | Problem |
+|------|----------|
+| 1 | Calculate age using birth year |
+| 2 | Calculate average percentage marks in PCM |
+| 3 | Calculate profit, loss and profit percentage |
+| 4 | Divide items equally among students |
+| 5 | Calculate volume of Earth |
+| 6 | Convert kilometers to miles |
+| 7 | Calculate discounted course fee |
+| 8 | Convert height from cm to feet and inches |
+| 9 | Build a basic calculator |
+| 10 | Find side length of square from perimeter |
+| 11 | Convert feet into yards and miles |
+| 12 | Calculate total purchase price |
+| 13 | Maximum handshakes among students |
 
-Understanding variables and data types
-Using arithmetic, relational, and modulus operators
-Working with user input and output
-Applying mathematical formulas in programs
-Building logical thinking through simple problem-solving
-🔹 Core Programming Intermediate Folder
-Focuses on control flow constructs in Java, including conditional statements and looping mechanisms.
+---
 
-📘 Level 01 – Control Flow Basics (Java)
-If-else conditions
-While loops
-For loops
-Logical flow control
-📝 Practice Problems
+## 🎯 Learning Outcomes
 
-Check divisibility
-Voting eligibility
-Positive/negative/zero
-Rocket countdown
-Factorial
-Multiplication tables
-🎯 Learning Outcomes
+- Understanding variables and data types
+- Working with arithmetic operators
+- User input handling
+- Mathematical formula implementation
+- Problem-solving techniques
+- Logic building fundamentals
 
-Decision making
-Loop understanding
-Real-world problem solving
-🔹 Arrays Folder
-Focuses on mastering array concepts in Java.
+---
 
-📝 Practice Problems
+# 🔹 Core Programming Intermediate
 
-2D to 1D array conversion
-FizzBuzz using array
-Odd/even separation
-Factors using array
-Mean height calculation
-🎯 Learning Outcomes
+Focuses on control flow mechanisms in Java.
 
-1D & 2D arrays
-Nested loops
-Data handling
-🔹 String Folder
-Focuses on string manipulation and exception handling in Java.
+## 📘 Topics Covered
 
-📝 Practice Problems
+- If-Else Statements
+- Nested If-Else
+- While Loop
+- For Loop
+- Logical Operators
+- Flow Control
 
-String comparison
-Substring creation
-Manual toCharArray
-Exception handling
-Uppercase/lowercase conversion
-🎯 Learning Outcomes
+### 📝 Practice Problems
 
-Character-level logic
-ASCII operations
-Exception handling
-🔹 Methods Folder
-Focuses on reusable and modular code using methods in Java.
+- Check divisibility
+- Voting eligibility
+- Positive / Negative / Zero
+- Rocket countdown
+- Factorial calculation
+- Multiplication tables
 
-📝 Practice Problems
+### 🎯 Learning Outcomes
 
-Simple Interest
-Factor calculations
-Recursion
-Unit converters
-BMI calculator
-🎯 Learning Outcomes
+- Decision Making
+- Loop Understanding
+- Real-world Problem Solving
+- Conditional Logic
 
-Method design
-Code reusability
-Problem abstraction
+---
 
+# 🔹 Arrays
 
-👤 Author
-Yashraj Varshney
-B.Tech Computer Science & Engineering
+Mastering array concepts in Java.
+
+## 📝 Practice Problems
+
+- 2D to 1D Array Conversion
+- FizzBuzz using Arrays
+- Odd-Even Separation
+- Factors using Arrays
+- Mean Height Calculation
+
+### 🎯 Learning Outcomes
+
+- 1D Arrays
+- 2D Arrays
+- Nested Loops
+- Data Handling
+- Traversal Techniques
+
+---
+
+# 🔹 Strings
+
+Understanding String manipulation and exception handling.
+
+## 📝 Practice Problems
+
+- String Comparison
+- Substring Creation
+- Manual toCharArray
+- Exception Handling
+- Uppercase Conversion
+- Lowercase Conversion
+
+### 🎯 Learning Outcomes
+
+- Character Manipulation
+- ASCII Operations
+- String Processing
+- Exception Handling
+
+---
+
+# 🔹 Methods
+
+Building reusable and modular code using methods.
+
+## 📝 Practice Problems
+
+- Simple Interest Calculator
+- Factor Calculation
+- Recursion Programs
+- Unit Conversion
+- BMI Calculator
+
+### 🎯 Learning Outcomes
+
+- Method Design
+- Reusability
+- Recursion
+- Code Optimization
+- Problem Abstraction
+
+---
+
+# 🎯 Project Goals
+
+✔ Strengthen Java Fundamentals
+
+✔ Improve Problem Solving Skills
+
+✔ Build Strong Programming Logic
+
+✔ Prepare for Coding Interviews
+
+✔ Develop Clean Coding Habits
+
+---
+
+# 👨‍💻 Author
+
+## Yashraj Varshney
+
+🎓 B.Tech – Computer Science & Engineering
+
